@@ -1,0 +1,68 @@
+.scroll-menu {
+  overflow: auto;
+  white-space: nowrap;
+}
+  
+.scroll-menu button {
+  background-color: white;
+  border: none;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  font-size: larger;
+}
+
+.dark-mode .scroll-menu button{
+  background: #121212;
+  color: #000;
+}
+
+
+.dark-mode .scroll-menu button p {
+  background: #121212;
+  color: #fff;
+}
+
+
+/* Dark mode styles */
+.dark-mode .page-subtitle {
+  color: #fff;
+}
+
+.dark-mode .container {
+  background-color: #121212;
+  color: #fff;
+}
+
+.dark-mode .btn-outline-dark {
+  border-color: #ccc;
+  color: #ccc;
+}
+
+.dark-mode .btn-outline-dark:hover {
+  background-color: #333;
+  border-color: #bbb;
+  color: #fff;
+}
+
+.light-mode .btn-outline-dark {
+  border-color: #000;
+  color: #000;
+}
+
+.light-mode .btn-outline-dark:hover {
+  background-color: #eee;
+  border-color: #000;
+  color: #000;
+}
+
+.dark-mode .card-body {
+  background-color: #333;
+  color: #fff;
+}
+
+.light-mode .card-body {
+  background-color: #fff;
+  color: #000;
+}

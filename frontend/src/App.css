@@ -1,0 +1,360 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.dark-mode .navbar {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.light-mode .navbar {
+  background-color: #f8f9fa;
+  color: #000;
+}
+
+.light-mode .navbar-nav .nav-link {
+  color: #000;
+} */
+
+
+/* Existing styles */
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* Dark mode styles */
+/* .dark-mode .navbar {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.light-mode .navbar {
+  background-color: #f8f9fa;
+  color: #000;
+}
+
+.light-mode .navbar-nav .nav-link {
+  color: #000;
+} */
+
+/* Add any other necessary styles here */
+
+/* Existing styles */
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* Dark mode styles */
+/* .dark-mode .navbar {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode .navbar-brand, 
+.dark-mode .nav-link {
+  color: #fff !important;
+}
+
+.light-mode .navbar {
+  background-color: #f8f9fa;
+  color: #000;
+}
+
+.light-mode .navbar-brand, 
+.light-mode .nav-link {
+  color: #000 !important;
+} */
+
+/* Add any other necessary styles here */
+
+/* Existing styles */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Dark mode styles */
+.dark-mode .navbar {
+  background-color: #000000;
+  color: #fff;
+}
+
+.dark-mode .navbar-brand, 
+.dark-mode .nav-link  {
+  color: #fff !important;
+}
+
+.dark-mode .dropdown-toggle{
+  background: #0f0f0f;
+  color: #fff;
+}
+
+
+
+.light-mode .navbar {
+  background-color: #ffffff;
+  color: #000;
+}
+
+.light-mode .navbar-brand, 
+.light-mode .nav-link {
+  color: #000 !important;
+}
+
+/* Footer styles */
+.dark-mode footer  {
+  background-color: #000000;
+  color: #ffffff !important;
+}
+
+.dark-mode footer .nav-link {
+  color: #ffffff !important;
+}
+
+.dark-mode .text-muted {
+  color: #ffffff !important; 
+}
+
+.light-mode footer {
+  background-color: #ffffff;
+  color: #000;
+}
+
+.light-mode footer .nav-link {
+  color: rgb(33 37 41 / 75%) !important;
+}
+
+
+
+
+/* Existing styles for CategoriesList */
+.category-list .card {
+  transition: background-color 0.3s ease;
+}
+
+.dark-mode .card {
+  background-color: #444 !important;
+  color: #fff;
+}
+
+.dark-mode .card-title {
+  color: #fff;
+}
+
+.dark-mode .card-text {
+  color: #ffffff;
+}
+
+.light-mode .card {
+  background-color: #fff;
+  color: #000;
+}
+
+.light-mode .card-title {
+  color: #000;
+}
+
+.light-mode .card-text {
+  color: #333;
+}
+
+
+/* Existing styles for BlogsPage */
+.page-subtitle {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+/* Dark mode styles */
+.dark-mode .page-subtitle {
+  color: #fff;
+}
+
+.dark-mode .container {
+  background-color: #121212;
+  color: #fff;
+}
+
+.dark-mode .btn-outline-dark {
+  border-color: #ccc;
+  color: #ccc;
+}
+
+.dark-mode .btn-outline-dark:hover {
+  background-color: #333;
+  border-color: #bbb;
+  color: #fff;
+}
+
+.light-mode .btn-outline-dark {
+  border-color: #000;
+  color: #000;
+}
+
+.light-mode .btn-outline-dark:hover {
+  background-color: #eee;
+  border-color: #000;
+  color: #000;
+}
+
+.dark-mode .card-body {
+  background-color: #333;
+  color: #fff;
+}
+
+.light-mode .card-body {
+  background-color: #fff;
+  color: #000;
+}
+
+
+.dark-mode .modal-dialog{
+  /* background: #000; */
+  color: #000;
+}
